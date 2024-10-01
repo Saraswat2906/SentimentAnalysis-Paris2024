@@ -5,7 +5,7 @@ import schedule
 import time
 
 
-API_KEY = 'AIzaSyA5TLoRhzCtNHsFkVoP4LK4TomrBpRibpw'  
+API_KEY = 'API_key'  
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
